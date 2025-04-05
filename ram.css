@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    font-family: "Jockey One", sans-serif;
+}
+table{
+    height: 100vh;
+    width: 100%;
+    border-spacing: 0;
+}
+body{background-image: url(Desktop\ -\ 3.png);
+    background-position: center;
+    background-size: cover;
+}
+button{
+    background-color:#5B2DAA;
+    color: white;
+    font-size: 1.5em;
+    border-radius:30px;
+}
+a{  text-decoration: none;
+    color: white;
+    }
+.faleconosco{
+    width: 250px;
+    height: 60px;
+}
+.qmsms{
+    width: 230px;
+    height: 60px;
+}
+.RAM{
+    width: 200px;
+    height: 60px;
+}
+
+.search{
+    width: 230px;
+    border-radius:30px;
+    padding: 8px;
+    border: 1px solid ;
+    background-color: #5B2DAA;
+    height: 50px;
+    font-size: 2.0em;
+    color: white;
+}
+.tdb{
+    width: 200px;
+    height: 30px;
+}
+.rodapé{
+    background-color:#5b2daa;
+    color: white;
+    text-align: center;
+   
+    height: 30;
+}
+.tdc{
+    background-color:#5b2daa98;
+    text-align: center;
+    
+}
+.tdc1{
+    background-color: white;
+    
+    text-align: center;
+    height: 200px;
+    width: 120px; ;
+}
+.tdc2{
+    background-color: white;
+   
+    text-align: center;
+    height: 200px;
+    width: 120px; ;
+}
+.tdc3{
+    background-color: white;
+   
+    text-align: center;
+    height: 200px;
+    width: 120px; ;
+}
+.tdc4{
+    background-color: white;
+   
+    text-align: center;
+    height: 200px;
+    width: 120px; ; 
+}
+.tdc5{
+    background-color: white;
+    text-align: center;
+    height: 200px;
+    width: 120px; ; 
+}
+.tdc6{
+    background-color: white;
+    text-align: center;
+    height: 200px;
+    width: 120px; ; 
+    font-size: 1.0em;
+}
+.Inicio{
+    width: 200px;
+    height: 60px;
+}
+.tdg{
+    text-align: center;
+    background-color: white;
+}
